@@ -25,7 +25,7 @@ int main() {
 	cin >> number_grn;
 
 
-	// Алгоритм разбивания суммы в грн:
+	// Алгоритм из суммы в грн:
 
 	Sleep(1500);
 	cout << "Ваша сумма " << number_dolar << " долларов = " << number_dolar * number_grn << " в грн." << endl;
