@@ -7,7 +7,7 @@ using std::endl;
 using std::string;
 
 int main() {
-
+	// Локализация 
 	setlocale(LC_ALL, "Russian");
 
 	cout << "Добро пожаловать в программу 'Курс валют'" << endl;
