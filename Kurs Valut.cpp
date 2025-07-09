@@ -36,7 +36,7 @@ int main() {
 
 
 
-
+	gin.get();
 	// system("pause");
 	return 0;
 }
