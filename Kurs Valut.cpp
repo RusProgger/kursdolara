@@ -30,6 +30,7 @@ int main() {
 
 	// Алгоритм из суммы в грн:
 
+	// Задержка
 	Sleep(1500);
 	cout << "Ваша сумма " << number_dolar << " долларов = " << number_dolar * number_grn << " в грн." << endl;
 
