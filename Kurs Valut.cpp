@@ -14,7 +14,7 @@ int main() {
 	cout << "Версия программы 0.0.1" << endl;
 	cout << "Автор Руслан Вороненко" << endl;
 
-	double long number_dolar;
+	double long number_dolar; // переменная для доллара
 	double long number_grn;
 	// Запрашиваем у пользователя данные:
 
