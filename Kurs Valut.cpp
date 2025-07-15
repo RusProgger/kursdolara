@@ -24,7 +24,7 @@ int main() {
 	cin >> number_dolar;
 
 	cout << "Введите сумму в грн: ";
-	// гривны
+	// Ввод гривны
 	cin >> number_grn;
 
 
