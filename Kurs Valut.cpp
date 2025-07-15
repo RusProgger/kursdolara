@@ -15,7 +15,7 @@ int main() {
 	cout << "Автор Руслан Вороненко" << endl;
 
 	double long number_dolar; // переменная для доллара
-	double long number_grn;
+	double long number_grn; // переменная для грн
 	// Запрашиваем у пользователя данные:
 
 	cout << "Введите курс доллара: ";
