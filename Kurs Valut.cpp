@@ -28,14 +28,9 @@ int main() {
 	// Ввод пользователя валюты гривны
 	cin >> number_grn;
 
-
-	// Алгоритм из суммы в грн:
-
 	// Задержка
 	Sleep(1500); 
 	cout << "Ваша сумма " << number_dolar << " долларов = " << number_dolar * number_grn << " в грн." << endl;
-
-
 
 	gin.get();
 	// system("pause");
