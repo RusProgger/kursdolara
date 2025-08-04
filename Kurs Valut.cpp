@@ -33,8 +33,9 @@ int main() {
 	Sleep(1500); 
 	cout << "Ваша сумма " << number_dolar << " долларов = " << number_dolar * number_grn << " в грн." << endl;
 
-	gin.get();
+	std::gin.get();
 	// system("pause");
 	return 0;
 }
+
 
